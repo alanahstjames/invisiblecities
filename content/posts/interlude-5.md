@@ -1,6 +1,6 @@
 +++
 title = "Interlude 5"
-number = 26
+weight = 26
 +++
 
 The Great Khan has dreamed of a city; he describes it to Marco Polo:

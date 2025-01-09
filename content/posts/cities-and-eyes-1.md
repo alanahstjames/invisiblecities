@@ -1,6 +1,6 @@
 +++
 title = "Cities & Eyes 1"
-number = 25
+weight = 25
 +++
 
 The ancients built Valdrada on the shores of a lake, with houses all verandas one above the other, and high streets whose railed parapets look out over the water. Thus the traveller, arriving, sees two cities: one erect above the lake, and the other reflected, upside-down. Nothing exists or happens in the one Valdrada that the other Valdrada does not repeat, because the city was so constructed that its every point would be reflected in its mirror, and the Valdrada down in the water contains not only all the flutings and juttings of the facades that rise above the lake, but also the rooms’ interiors with ceilings and floors, the perspective of the halls, the mirrors of the wardrobes.

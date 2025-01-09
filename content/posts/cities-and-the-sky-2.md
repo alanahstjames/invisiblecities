@@ -1,6 +1,6 @@
 +++
 title = "Cities & the Sky 2"
-number = 51
+weight = 51
 +++
 
 This belief is handed down in Beersheba: that, suspended in the heavens, there exists another Beersheba, where the city’s most elevated virtues and sentiments are poised, and that if the terrestrial Beersheba will take the celestial one as its model the two cities will become one. The image propagated by tradition is that of a city of pure gold, with silver locks and diamond gates, a jewel-city, all inset and inlaid, as a maximum of laborious study might produce when applied to materials of the maximum worth. True to this belief, Beersheba’s inhabitants honour everything that suggests for them the celestial city: they accumulate noble metals and rare stones, they renounce all ephemeral excesses, they develop forms of composite composure.

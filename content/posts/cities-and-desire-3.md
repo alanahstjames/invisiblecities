@@ -1,6 +1,6 @@
 +++
 title = "Cities & Desire 3"
-number = 9
+weight = 9
 +++
 
 Despina can be reached in two ways: by ship or by camel. The city displays one face to the traveller arriving overland and a different one to him who arrives by sea.

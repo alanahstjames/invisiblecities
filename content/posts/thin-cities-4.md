@@ -1,6 +1,6 @@
 +++
 title = "Thin Cities 4"
-number = 28
+weight = 28
 +++
 
 The city of Sophronia is made up of two half cities. In one there is the great roller-coaster with its steep humps, the carousel with its chain spokes, the Ferris wheel of spinning cages, the death-ride with crouching motor-cyclists, the big top with the clump of trapezes hanging in the middle. The other half-city is of stone and marble and cement, with the bank, the factories, the palaces, the slaughterhouse, the school, and all the rest. One of the half-cities is permanent, the other is temporary, and when the period if its sojourn is over, they uproot it, dismantle it, and take it off, transplanting it to the vacant lots of another half-city.

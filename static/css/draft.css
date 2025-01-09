@@ -99,6 +99,43 @@ blockquote {
     padding: 1rem;
 }
 
+
+/*=-------------------=*/
+/*=     FRONTPAGE     =*/
+/*=-------------------=*/
+
+.posts-grid {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 16px;
+    justify-content: space-between;
+    margin-top: 20px;
+  }
+  
+  .post-block {
+    flex: 1 1 calc(25% - 16px); /* 4 rectangles per row */
+    background-color: #d0eaff; /* Light blue background */
+    padding: 20px;
+    border-radius: 8px;
+    text-align: center;
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+    transition: transform 0.2s, box-shadow 0.2s;
+  }
+  
+  .post-block a {
+    text-decoration: none;
+    color: #0056b3; /* Darker blue for link text */
+    font-weight: bold;
+    font-size: 16px;
+  }
+  
+  .post-block:hover {
+    transform: scale(1.05);
+    box-shadow: 0 6px 10px rgba(0, 0, 0, 0.15);
+  }
+  
+
+
 /*=-------------------=*/
 /*=     SIDENOTES     =*/
 /*=-------------------=*/

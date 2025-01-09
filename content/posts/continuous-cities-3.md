@@ -1,6 +1,6 @@
 +++
 title = "Continuous Cities 3"
-number = 64
+weight = 64
 +++
 
 Each year in the course of my travels I stop at Procopia and take lodgings in the same room in the same inn. Ever since the first time I have lingered to contemplate the landscape to be seen by raising the curtain at the window: a ditch, a bridge, a little wall, a medlar, a field of corn, a bramble patch with blackberries, a chicken yard, the yellow hump of a hill, a white cloud, a stretch of blue sky shaped like a trapeze. The first time I am sure there was no one to be seen; it was only the following year that, at a movement among the leaves, I could discern a round, flat face, gnawing on an ear of corn. A year later there were three of them on the wall, and at my return I saw six, seated in a row, with their hands on their knees and some medlars in a dish. Each year, as soon as I entered the room, I raised the curtain and counted more faces: sixteen, including those down in the ditch; twenty-nine, of whom eight were perched in the medlar; forty-seven, besides those in the chicken house. They look alike, they seem polite, they have freckles on their cheeks, they smile, some have lips stained with blackberries. Soon I saw the whole bridge filled with round-faced characters, huddled, because they had no more room to move in; they chomped the kernels of corn, then they gnawed on the ears.

@@ -1,6 +1,6 @@
 +++
 title = "Continuous Cities 4"
-number = 67
+weight = 67
 +++
 
 You reproach me because each of my stories takes you right into the heart of a city without telling you of the space that stretches between one city and the other, whether it is covered by seas, or fields of rye, larch forest, swamps. I will answer you with a story.

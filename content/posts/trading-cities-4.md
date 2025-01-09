@@ -1,6 +1,6 @@
 +++
 title = "Trading Cities 4"
-number = 35
+weight = 35
 +++
 
 In Ersilia, to establish the relationships that sustain the city’s life, the inhabitants stretch strings from the corners of the houses, white or black or grey or black-and-white according to whether they mark a relationship of blood, of trade, authority, agency. When the strings become so numerous that you can no longer pass among them, the inhabitants leave: the houses are dismantled; only the strings and their supports remain.

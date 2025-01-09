@@ -1,6 +1,6 @@
 +++
 title = "Continuous Cities 1"
-number = 52
+weight = 52
 +++
 
 The city of Leonia refashions itself every day: every morning the people wake between fresh sheets, wash with just-unwrapped cakes of soap, wear brand-new clothing, take from the latest model refrigerator still unopened tins, listening to the last-minute jingles from the most up-to-date radio.

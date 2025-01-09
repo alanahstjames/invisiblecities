@@ -1,6 +1,6 @@
 +++
 title = "Thin Cities 5"
-number = 34
+weight = 34
 +++
 
 If you choose to believe me, good. Now I will tell how Octavia, the spiderweb city, is made. There is a precipice between two steep mountains: the city is over the void, bound to the two crests with ropes and chains and catwalks. You walk on the little wooden ties, careful not to set your foot in the open spaces, or you cling to the hempen strands. Below there is nothing for hundreds and hundreds of feet: a few clouds glide past; farther down you can glimpse the chasm’s bed.

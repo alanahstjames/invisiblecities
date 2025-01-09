@@ -1,6 +1,6 @@
 +++
 title = "Interlude 9"
-number = 39
+weight = 39
 +++
 
 Marco Polo describes a bridge, stone by stone.

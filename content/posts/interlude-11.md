@@ -1,6 +1,6 @@
 +++
 title = "Interlude 11"
-number = 46
+weight = 46
 +++
 
 ‘… So then, yours is truly a journey through memory!’ The Great Khan, his ears always sharp, sat up in his hammock every time he caught the hint of a sigh in Marco’s speech. ‘It was to slough off a burden of nostalgia that you went so far away!’ he exclaimed, or else: ‘You return from your voyages with a cargo of regrets!’ And he added, sarcastically: ‘Meagre purchases, to tell the truth, for a merchant of the Serenissima!’

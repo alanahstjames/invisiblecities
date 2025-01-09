@@ -1,6 +1,6 @@
 +++
 title = "Interlude 12"
-number = 47
+weight = 47
 +++
 
 KUBLAI I do not know when you have had time to visit all the countries you describe to me. It seems to me you have never moved from this garden._

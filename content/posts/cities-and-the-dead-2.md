@@ -1,6 +1,6 @@
 +++
 title = "Cities & the Dead 2"
-number = 44
+weight = 44
 +++
 
 Never in all my travels had I ventured as far as Adelma. It was dusk when I landed there. On the dock the sailor who caught the rope and tied it to the bollard resembled a man who had soldiered with me and was dead. It was the hour of the wholesale fish market. An old man was loading a basket of sea urchins on a cart; I thought I recognized him; when I turned, he had disappeared down an alley, but I realized that he looked like a fisherman who, already old when I was a child, could no longer be among the living. I was upset by the sight of a fever victim huddled on the ground, a blanket over his head: my father a few days before his death had yellow eyes and a growth of beard like this man. I turned my gaze aside; I no longer dared look anyone in the face.

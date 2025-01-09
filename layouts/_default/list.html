@@ -1,14 +1,17 @@
 {{ define "main" }}
-  <section>
+  <section class="main">
     <h1>{{ .Title }}</h1>
     <div>{{ .Content }}</div>
 
-    <ul>
-      {{ range .Pages }}
-        <li>
-          <a href="{{ .RelPermalink }}">{{ .Title }}</a>
-        </li>
-      {{ end }}
-    </ul>
+    <div class="posts-grid">
+    {{ $posts := where .Site.RegularPages "Type" "posts" }}
+    {{ $sortedPosts := sort $posts "Params.weight" "asc" }} <!-- Sort by weight (optional) -->
+
+    {{ range $sortedPosts }}
+      <div class="post-block">
+        <a href="{{ .RelPermalink }}">{{ .Title }}</a>
+      </div>
+    {{ end }}
+  </div>
   </section>
 {{ end }}

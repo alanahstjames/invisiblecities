@@ -1,6 +1,6 @@
 +++
 title = "Cities & Names 4"
-number = 49
+weight = 49
 +++
 
 Clarice, the glorious city, has a tormented history. Several times it decayed, then burgeoned again, always keeping the first Clarice as an unparalleled model of every splendour, compared to which the city’s present state can only cause more sighs at every fading of the stars.

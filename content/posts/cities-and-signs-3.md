@@ -1,6 +1,6 @@
 +++
 title = "Cities & Signs 3"
-number = 16
+weight = 16
 +++
 
 The man who is travelling and does not yet know the city awaiting him along his route wonders what the palace will be like, the barracks, the mill, the theatre, the bazaar. In every city of the empire every building is different and set in a different order: but as soon as the stranger arrives at the unknown city and his eye penetrates the pine cone of pagodas and garrets and haymows, following the scrawl of canals, gardens, rubbish heaps, he immediately distinguishes which are the princes’ palaces, the high priests’ temples, the tavern, the prison, the slum. This—some say—confirms the hypothesis that each man bears in his mind a city made only of differences, a city without figures and without form, and the individual cities fill it up.

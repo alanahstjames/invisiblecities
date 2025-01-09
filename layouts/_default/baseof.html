@@ -4,16 +4,17 @@
     <meta charset="utf-8">
     <title>{{ .Title }} | Invisible Cities</title>
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <link rel="stylesheet" href="/assets/css/draft.css">
+    <link rel="stylesheet" href="/css/draft.css">
   </head>
   <body>
     <div class="sidebar">
       {{ partial "navigation.html" . }}
     </div>
     
-      <main>
+    <main>
         {{ block "main" . }}{{ end }}
-      </main>
+    </main>
+    
     
     <br>
     <br>

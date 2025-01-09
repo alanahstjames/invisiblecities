@@ -1,6 +1,6 @@
 +++
 title = "Continuous Cities 5"
-number = 69
+weight = 69
 +++
 
 To tell you about Penthesilea I should begin by describing the entrance to the city. You, no doubt, imagine seeing a girdle of walls rising from the dusty plain as you slowly approach the gate, guarded by customs men who are already casting oblique glances at your bundles. Until you have reached it you are outside it; you pass beneath an archway and you find yourself within the city; its compact thickness surrounds you; carved in its stone there is a pattern that will be revealed to you if you follow its jagged outline.

@@ -1,6 +1,6 @@
 +++
 title = "Cities & Desire 4"
-number = 15
+weight = 15
 +++
 
 In the centre of Fedora, that grey stone metropolis, stands a metal building with a crystal globe in every room. Looking into each globe, you see a blue city, the model of a different Fedora. These are the forms the city could have taken if, for one reason or another, it had not become what we see today. In every age someone, looking at Fedora as it was, imagined a way of making it the ideal city, but while he constructed his miniature model, Fedora was already no longer the same as before, and what had until yesterday a possible future became only a toy in a glass globe.

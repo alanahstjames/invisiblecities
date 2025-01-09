@@ -1,6 +1,6 @@
 +++
 title = "Hidden Cities 3"
-number = 68
+weight = 68
 +++
 
 A sibyl, questioned about Marozia’s fate, said: ‘I see two cities one of the rat, one of the swallow.’

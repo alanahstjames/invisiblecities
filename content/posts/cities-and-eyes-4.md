@@ -1,6 +1,6 @@
 +++
 title = "Cities & Eyes 4"
-number = 42
+weight = 42
 +++
 
 When you have arrived at Phyllis, you rejoice in observing all the bridges over the canals, each different from the others: cambered, covered, on pillacs. on barges, suspended, with tracery balustrades. And what a variety of windows looks down on the streets: mullioned, Moorish, lancet, pointed, surmounted by lunettes or stained-glass roses; how many kinds of pavement cover the ground: cobbles, slabs, gravel, blue and white tiles. At every point the city offers surprises to your view: a caper bush jutting from the fortress’ walls, the statues of three queens on corbels, an onion dome with three smaller onions threaded on the spire. ‘Happy the man who has Phyllis before his eyes each day and who never ceases seeing the things it contains,’ you cry, with regret at having to leave the city when you can barely graze it with your glance.

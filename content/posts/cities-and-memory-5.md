@@ -1,6 +1,6 @@
 +++
 title = "Cities & Memory 5"
-number = 14
+weight = 14
 +++
 
 In Maurilia, the traveller is invited to visit the city and, at the same time, to examine some old postcards that show it as it used to be: the same identical square with a hen in the place of the bus station, a bandstand in the place of the overpass, two young ladies with white parasols in the place of the munitions factory. If the traveller does not wish to disappoint the inhabitants, he must praise the postcard city and prefer it to the present one, though he must be careful to contain his regret at the changes within definite limits: admitting that the magnificence and prosperity of the metropolis Maurilia, when compared to the old, provincial Maurilia, cannot compensate for a certain lost grace, which, however, can be appreciated only now in the old postcards, whereas before, when that provincial Maurilia was before one’s eyes, one saw absolutely nothing graceful and would see it even less today, if Maurilia had remained unchanged; and in any case the metropolis has the added attraction that, through what it has become, one can look back with nostalgia at what it was.

@@ -1,10 +1,6 @@
 {{ define "main" }}
 <div class="main">
   <h1>{{ .Title }}</h1>
-  <p style="text-align: right;">
-    <em>{{ .Date.Format "January 2, 2006" }}</em>
-    - <a href="/about.html">{{ .Params.author }}</a>
-  </p>
   {{ .Content }}
 </div>
 {{ end }}

@@ -1,6 +1,6 @@
 +++
 title = "Trading Cities 2"
-number = 24
+weight = 24
 +++
 
 In Chloe, a great city, the people who move through the streets are all strangers. At each encounter, they imagine a thousand things about one another; meetings which could take place between them, conversations, surprises, caresses, bites. But no one greets anyone; eyes lock for a second, then dart away, seeking other eyes, never stopping.

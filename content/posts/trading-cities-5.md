@@ -1,6 +1,6 @@
 +++
 title = "Trading Cities 5"
-number = 41
+weight = 41
 +++
 
 In Esmeralda, city of water, a network of canals and a network of streets span and intersect each other. To go from one place to another you have always the choice between land and boat: and since the shortest distance between two points in Esmeralda is not a straight line but a zigzag that ramifies in tortuous optional routes, the ways that open to each passerby are never two, but many, and they increase further for those who alternate a stretch by boat with one on dry land.

@@ -1,6 +1,6 @@
 +++
 title = "Interlude 14"
-number = 54
+weight = 54
 +++
 
 From the foot of the Great Khan’s throne a majolica pavement extended. Marco Polo, mute informant, spread out on it the samples of the wares he had brought back from his journeys to the ends of the empire: a helmet, a seashell, a coconut, a fan. Arranging the objects in a certain order on the black and white tiles, and occasionally shifting them with studied moves, the ambassador tried to depict for the monarch’s eyes the vicissitudes of his travels, the conditions of the empire, the prerogatives of the distant provincial seats.

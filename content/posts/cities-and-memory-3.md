@@ -1,6 +1,6 @@
 +++
 title = "Cities & Memory 3"
-number = 5
+weight = 5
 +++
 
 In vain, great-hearted Kublai, shall I attempt to describe Zaira, city of high bastions. I could tell you how many steps make up the streets rising like stairways, and the degree of the arcades’ curves, and what kind of zinc scales cover the roofs; but I already know this would be the same as telling you nothing. The city does not consist of this, but of relationships between the measurements of its space and the events of its past: the height of a lamppost and the distance from the ground of a hanged usurper’s swaying feet; the line strung from the lamppost to the railing opposite and the festoons that decorate the course of the queen’s nuptial procession; the height of that railing and the leap of the adulterer who climbed over it at dawn; the tilt of a guttering and a cat’s progress along it as he slips into the same window; the firing range of a gunboat which has suddenly appeared beyond the cape and the bomb that destroys the guttering; the rips in the fish net and the three old men seated on the dock mending nets and telling each other for the hundredth time the story of the gunboat of the usurper, who some say was the queen’s illegitimate son, abandoned in his swaddling clothes there on the dock.
