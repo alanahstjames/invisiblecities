@@ -1,0 +1,21 @@
+<!doctype html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <title>{{ .Title }} | Invisible Cities</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="/assets/css/draft.css">
+  </head>
+  <body>
+    <div class="sidebar">
+      {{ partial "navigation.html" . }}
+    </div>
+    
+      <main>
+        {{ block "main" . }}{{ end }}
+      </main>
+    
+    <br>
+    <br>
+  </body>
+</html>
