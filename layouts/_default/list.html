@@ -8,7 +8,7 @@
     {{ $sortedPosts := sort $posts "Params.weight" "asc" }} <!-- Sort by weight (optional) -->
 
     {{ range $sortedPosts }}
-      <div class="post-block">
+      <div class="post-block" style="background-image: url('{{ .Params.featuredImage }}');">
         <a href="{{ .RelPermalink }}">{{ .Title }}</a>
       </div>
     {{ end }}

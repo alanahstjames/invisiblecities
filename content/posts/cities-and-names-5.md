@@ -1,7 +1,12 @@
 +++
 title = "Cities & Names 5"
+featuredImage = "/images/cities-and-names-5.webp"
 weight = 55
 +++
+
+![Cities and Names 5](/images/cities-and-names-5.webp)
+
+# Cities and Names 5
 
 Irene is the city visible when you lean out from the edge of the plateau at the hour when the lights come on, and in the limpid air, the pink of the settlement can be discerned spread out in the distance below: where the windows are more concentrated, where it thins out in dimly lighted alleys, where it collects the shadows of gardens, where it raises towers with signal fires; and if the evening is misty, a hazy glow swells like a milky sponge at the foot of the gulleys.
 

@@ -1,7 +1,12 @@
 +++
 title = "Cities & Names 4"
+featuredImage = "/images/cities-and-names-4.webp"
 weight = 49
 +++
+
+![Cities and Names 4](/images/cities-and-names-4.webp)
+
+# Cities and Names 4
 
 Clarice, the glorious city, has a tormented history. Several times it decayed, then burgeoned again, always keeping the first Clarice as an unparalleled model of every splendour, compared to which the city’s present state can only cause more sighs at every fading of the stars.
 

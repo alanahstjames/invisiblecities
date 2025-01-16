@@ -1,7 +1,12 @@
 +++
 title = "Cities & Names 3"
+featuredImage = "/images/cities-and-names-3.webp"
 weight = 43
 +++
+
+![Cities and Names 3](/images/cities-and-names-3.webp)
+
+# Cities and Names 3
 
 For a long time Pyrrha to me was a fortified city on the slopes of a bay, with high windows and towers, enclosed like a goblet, with a central square deep as a well, with a well in its centre. I had never seen it. It was one of the many cities where I had never arrived, that I conjured up, through its name: Euphrasia, Odile, Margara, Getullia. Pyrrha had its place among them, different from each of them, and like each of them, unmistakable to the mind’s eye.
 

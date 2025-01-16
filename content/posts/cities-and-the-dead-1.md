@@ -1,7 +1,12 @@
 +++
 title = "Cities & the Dead 1"
+featuredImage = "/images/cities-and-the-dead-1.webp"
 weight = 38
 +++
+
+![Cities and the Dead 1](/images/cities-and-the-dead-1.webp)
+
+# Cities and the Dead 1
 
 At Melania, every time you enter the square, you find yourself caught in a dialogue: the braggart soldier and the parasite coming from a door meet the young wastrel and the prostitute; or else the miserly father from his threshold utters his final warnings to the amorous daughter and is interrupted by the foolish servant who is taking a note to the procuress. You return to Melania after years and you find the same dialogue still going on; in the meanwhile the parasite has died, and so have the procuress and the miserly father; but the braggart soldier, the amorous daughter, the foolish servant have taken their places, being replaced in their turn by the hypocrite, the confidante, the astrologer.
 

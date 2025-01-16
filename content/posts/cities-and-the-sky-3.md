@@ -1,7 +1,12 @@
 +++
 title = "Cities & the Sky 3"
+featuredImage = "/images/cities-and-the-sky-3.webp"
 weight = 57
 +++
+
+![Cities and the Sky 3](/images/cities-and-the-sky-3.webp)
+
+# Cities and the Sky 3
 
 Those who arrive at Thekla can see little of the city, beyond the plank fences, the sackcloth screens, the scaffolding, the metal armatures, the wooden catwalks hanging from ropes or supported by saw-horses, the ladders, the trestles. If you ask, ‘Why is Thekla’s construction taking such a long time?’ the inhabitants continue hoisting sacks, lowering leaded strings, moving long brushes up and down, as they answer, ‘So that its destruction cannot begin.’ And if asked whether they fear that, once the scaffolding is removed, the city may begin to crumble and fall to pieces, they add hastily, in a whisper, ‘Not only the city.’
 

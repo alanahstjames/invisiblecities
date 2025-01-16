@@ -1,7 +1,12 @@
 +++
 title = "Cities & Eyes 3"
+featuredImage = "/images/cities-and-eyes-3.webp"
 weight = 36
 +++
+
+![Cities & Eyes 3](/images/cities-and-eyes-3.webp)
+
+# Cities & Eyes 3
 
 After a seven days’ march through woodland, the traveller directed towards Baucis cannot see the city and yet he has arrived. The slender stilts that rise from the ground at a great distance from one another and are lost above the clouds support the city. You climb them with ladders. On the ground the inhabitants rarely show themselves: having already everything they need up there, they prefer not to come down. Nothing of the city touches the earth except those long flamingo legs on which it rests and, when the days are sunny, a pierced, angular shadow that falls on the foliage.
 

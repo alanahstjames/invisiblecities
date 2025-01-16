@@ -1,7 +1,12 @@
 +++
 title = "Conclusion"
+featuredImage = "/images/conclusion.webp"
 weight = 72
 +++
+
+![Conclusion](/images/conclusion.webp)
+
+# Conclusion
 
 The Great Khan’s atlas contains also the maps of the promised lands visited in thought but not yet discovered or founded: New Atlantis, Utopia, the City of the Sun, Oceana, Tamoe, New Harmony, New Lanark, Icaria.
 

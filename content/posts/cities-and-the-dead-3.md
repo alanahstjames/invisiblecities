@@ -1,7 +1,12 @@
 +++
 title = "Cities & the Dead 3"
+featuredImage = "/images/cities-and-the-dead-3.webp"
 weight = 50
 +++
+
+![Cities and the Dead 3](/images/cities-and-the-dead-3.webp)
+
+# Cities and the Dead 3
 
 No city is more inclined than Eusapia to enjoy life and flee care. And to make the leap from life to death less abrupt, the inhabitants have constructed an identical copy of their city, underground. All corpses, dried in such a way that the skeleton remains sheathed in yellow skin, are carried down there, to continue their former activities. And, of these activities, it is their carefree moments that take first place: most of the corpses are seated around laden tables, or placed in dancing positions, or made to play little trumpets. But all the trades and professions of the living Eusapia are also at work below ground, or at least those that the living performed with more contentment than irritation: the clockmaker, amid all the stopped clocks of his shop, places his parchment ear against an out-of-tune grandfather clock; a barber, with dry brush, lathers the cheekbones of an actor learning his role, studying the script with hollow sockets; a girl with a laughing skull milks the carcass of a heifer.
 

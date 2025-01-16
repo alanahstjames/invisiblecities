@@ -1,7 +1,12 @@
 +++
 title = "Cities & Eyes 5"
+featuredImage = "/images/cities-and-eyes-5.webp"
 weight = 48
 +++
+
+![Cities & Eyes 5](/images/cities-and-eyes-5.webp)
+
+# Cities & Eyes 5
 
 When you have forded the river, when you have crossed the mountain pass, you suddenly find before you the city of Moriana, its alabaster gates transparent in the sunlight, its coral columns supporting pediments encrusted with serpentine, its villas all of glass like aquariums where the shadows of dancing girls with silvery scales swim beneath the medusa-shaped chandeliers. If this is not your first journey, you already know that cities like this have an obverse: you have only to walk in a semicircle and you will come into view of Moriana’s hidden face, an expanse of rusting sheet metal, sackcloth, planks bristling with spikes, pipes black with soot, piles of tins, blind walls with fading signs, frames of staved-in straw chairs, ropes good only for hanging oneself from a rotten beam.
 

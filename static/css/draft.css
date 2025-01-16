@@ -83,6 +83,17 @@ body {
     font-size: 1.2em;
     line-height: 1.55em;
 }
+
+main img {
+    display: block; /* Make the image a block element */
+    width: 100vw; /* Make the image span the full viewport width */
+    /* max-width: 100%;  */
+    height: auto; /* Maintain the aspect ratio */
+    margin: 0 auto; /* Center the image horizontally */
+    position: relative; /* Ensure it's positioned properly */
+    left: 50%; /* Adjust to the center */
+    transform: translateX(-50%); /* Center offset correction */
+  }
 /* 
 p, table, blockquote, ul, ol {
 
@@ -113,7 +124,7 @@ blockquote {
   }
   
   .post-block {
-    flex: 1 1 calc(25% - 16px); /* 4 rectangles per row */
+    flex: 1 1 calc(50% - 16px); /* 4 rectangles per row */
     background-color: #d0eaff; /* Light blue background */
     padding: 20px;
     border-radius: 8px;
@@ -124,7 +135,7 @@ blockquote {
   
   .post-block a {
     text-decoration: none;
-    color: #0056b3; /* Darker blue for link text */
+    color: white; /* Darker blue for link text */
     font-weight: bold;
     font-size: 16px;
   }
@@ -190,7 +201,7 @@ h1 {
     margin-bottom: 1.5rem;
     font-size: 3.2rem;
     line-height: 1; 
-    text-align: right;
+    text-align: center;
     border-bottom: 1px dotted #752020;
 }
 
