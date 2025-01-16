@@ -1,7 +1,12 @@
 +++
 title = "Interlude 9"
+featuredImage = "/images/interlude-9.webp"
 weight = 39
 +++
+
+![Interlude 9](/images/interlude-9.webp)
+
+# Interlude IX
 
 Marco Polo describes a bridge, stone by stone.
 

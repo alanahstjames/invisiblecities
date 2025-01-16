@@ -4,9 +4,9 @@ featuredImage = "/images/cities-and-signs-4.webp"
 weight = 22
 +++
 
-![Cities and Signs 4](/images/cities-and-signs-4.webp)
+![Cities & Signs 4](/images/cities-and-signs-4.webp)
 
-# Cities and Signs 4
+# Cities & Signs IV
 
 Of all the changes of language a traveller in distant lands must face, none equals that which awaits him in the city of Hypatia, because the change regards not words, but things. I entered Hypatia one morning, a magnolia garden was reflected in blue lagoons, I walked among the hedges, sure I would discover young and beautiful ladies bathing; but at the bottom of the water, crabs were biting the eyes of the suicides, stones tied round their necks, their hair green with seaweed.
 

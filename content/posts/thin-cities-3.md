@@ -1,7 +1,12 @@
 +++
 title = "Thin Cities 3"
+featuredImage = "/images/thin-cities-3.webp"
 weight = 23
 +++
+
+![Thin Cities 3](/images/thin-cities-3.webp)
+
+# Thin Cities III
 
 Whether Armilla is like this because it is unfinished or because it has been demolished, whether the cause is some enchantment or only a whim, I do not know. The fact remains that it has no walls, no ceilings, no floors: it has nothing that makes it seem a city, except the water pipes that rise vertically where the houses should be and spread out horizontally where the floors should be: a forest of pipes that end in taps, showers, spouts, overflows. Against the sky a lavabo’s white stands out, or a bathtub, or some other porcelain, like late fruit still hanging from the boughs. You would think the plumbers had finished their job and gone away before the bricklayers arrived; or else their hydraulic systems, indestructible, had survived a catastrophe, an earthquake, or the corrosion of termites.
 

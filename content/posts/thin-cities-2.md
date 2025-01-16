@@ -1,7 +1,12 @@
 +++
 title = "Thin Cities 2"
+featuredImage = "/images/thin-cities-2.webp"
 weight = 17
 +++
+
+![Thin Cities 2](/images/thin-cities-2.webp)
+
+# Thin Cities II
 
 Now I shall tell of the city of Zenobia, which is wonderful in this fashion: though set on dry terrain it stands on high pilings, and the houses are of bamboo and zinc, many platforms and balconies placed on stilts at various heights, crossing one another, linked by ladders and hanging sidewalks, surmounted by cone-roofed belvederes, barrels storing water, weather-vanes, jutting pulleys, and fish poles, and cranes.
 

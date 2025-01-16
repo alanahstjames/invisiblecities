@@ -1,7 +1,12 @@
 +++
 title = "Continuous Cities 4"
+featuredImage = "/images/continuous-cities-4.webp"
 weight = 67
 +++
+
+![Continuous Cities 4](/images/continuous-cities-4.webp)
+
+# Continuous Cities IV
 
 You reproach me because each of my stories takes you right into the heart of a city without telling you of the space that stretches between one city and the other, whether it is covered by seas, or fields of rye, larch forest, swamps. I will answer you with a story.
 

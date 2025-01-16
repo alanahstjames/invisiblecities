@@ -1,7 +1,12 @@
 +++
 title = "Interlude 16"
+featuredImage = "/images/interlude-16.webp"
 weight = 61
 +++
+
+![Interlude 16](/images/interlude-16.webp)
+
+# Interlude XVI
 
 The Great Khan owns an atlas where all the cities of the empire and the neighbouring realms are drawn, building by building and street by street, with walls, rivers, bridges, harbours, cliffs. He realizes that from Marco Polo’s tales it is pointless to expect news of those places, which for that matter he knows well: how at Kambalu, capital of China, three square cities stand one within the other, each with four temples and four gates that are opened according to the seasons; how on the island of Java the rhinoceros rages, charging, with his murderous horn; how pearls are gathered on the ocean bed off the coasts of Malabar.
 

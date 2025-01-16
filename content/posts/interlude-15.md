@@ -1,7 +1,12 @@
 +++
 title = "Interlude 15"
+featuredImage = "/images/interlude-15.webp"
 weight = 60
 +++
+
+![Interlude 15](/images/interlude-15.webp)
+
+# Interlude XV
 
 … The Great Khan tried to concentrate on the game: but now it was the game’s reason that eluded him. The end of every game is a gain or a loss: but of what? What were the real stakes? At checkmate, beneath the foot of the king, knocked aside by the winner’s hand, nothingness remains: a black square, or a white one. By disembodying his conquests to reduce them to the essential, Kublai had arrived at the extreme operation: the definitive conquest, of which the empire’s multiform treasures were only illusory envelopes; it was reduced to a square of planed wood.
 

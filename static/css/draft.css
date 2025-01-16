@@ -94,7 +94,37 @@ main img {
     left: 50%; /* Adjust to the center */
     transform: translateX(-50%); /* Center offset correction */
   }
-/* 
+  .post-navigation {
+    display: flex;
+    justify-content: space-between;
+    margin-top: 20px;
+    padding-top: 20px;
+    border-top: 1px solid #ddd;
+  }
+  
+  .nav-link {
+    text-decoration: none;
+    color: darkgray;
+    font-weight: bold;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    text-align: center;
+  }
+  
+  .nav-link img.nav-image {
+    width: 100px;
+    height: auto;
+    margin-top: 10px;
+    border-radius: 5px;
+    border: 1px solid #ddd;
+  }
+  
+  .nav-link:hover {
+    color: black;
+  }
+
+  /* 
 p, table, blockquote, ul, ol {
 
 } */

@@ -1,7 +1,12 @@
 +++
 title = "Hidden Cities 4"
+featuredImage = "/images/hidden-cities-4.webp"
 weight = 70
 +++
+
+![Hidden Cities 4](/images/hidden-cities-4.webp)
+
+# Hidden Cities IV
 
 Recurrent invasions racked the city of Theodora in the centuries of its history; no sooner was one enemy routed than another gained strength and threatened the survival of the inhabitants. When the sky was cleared of condors, they had to face the propagation of serpents; the spiders’ extermination allowed the flies to multiply into a black swarm; the victory over the termites left the city at the mercy of the woodworms. One by one the species incompatible to the city had to succumb and were extinguished. By dint of ripping away scales and carapaces, tearing off elytra and feathers, the people gave Theodora the exclusive image of human city that still distinguishes it.
 

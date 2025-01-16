@@ -1,12 +1,12 @@
 +++
 title = "Cities & Names 1"
 featuredImage = "/images/cities-and-names-1.webp"
-weight = 31
+weight = 32
 +++
 
-![Cities and Names 1](/images/cities-and-names-1.webp)
+![Cities & Names 1](/images/cities-and-names-1.webp)
 
-# Cities and Names 1
+# Cities & Names I
 
 There is little I can tell you about Aglaura beyond the things its own inhabitants have always repeated: an array of proverbial virtues, of equally proverbial faults, a few eccentricities, some punctilious regard for rules. Ancient observers, whom there is no reason not to presume truthful, attributed to Aglaura its enduring assortment of qualities, surely comparing them to those of the other cities of their times. Perhaps neither the Aglaura that is reported nor the Aglaura that is visible has greatly changed since then, but what was bizarre has become usual, what seemed normal is now an oddity, and virtues and faults have lost merit or dishonour in a code of virtues and faults differently distributed. In this sense, nothing said of Aglaura is true, and yet these accounts create a solid and compact image of a city, whereas the haphazard opinions which might be inferred from living there have less substance. This is the result: the city that they speak of has much of what is needed to exist, whereas the city that exists on its site, exists less.
 

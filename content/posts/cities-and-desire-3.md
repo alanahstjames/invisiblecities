@@ -4,9 +4,9 @@ featuredImage = "/images/cities-and-desire-3.webp"
 weight = 9
 +++
 
-# Cities & Desire 3
-
 ![Cities & Desire 3](/images/cities-and-desire-3.webp)
+
+# Cities & Desire III
 
 Despina can be reached in two ways: by ship or by camel. The city displays one face to the traveller arriving overland and a different one to him who arrives by sea.
 

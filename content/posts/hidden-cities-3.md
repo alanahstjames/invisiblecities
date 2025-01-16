@@ -1,7 +1,12 @@
 +++
 title = "Hidden Cities 3"
+featuredImage = "/images/hidden-cities-3.webp"
 weight = 68
 +++
+
+![Hidden Cities 3](/images/hidden-cities-3.webp)
+
+# Hidden Cities III
 
 A sibyl, questioned about Marozia’s fate, said: ‘I see two cities one of the rat, one of the swallow.’
 

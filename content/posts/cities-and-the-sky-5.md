@@ -4,9 +4,9 @@ featuredImage = "/images/cities-and-the-sky-5.webp"
 weight = 66
 +++
 
-![Cities and the Sky 5](/images/cities-and-the-sky-5.webp)
+![Cities & the Sky 5](/images/cities-and-the-sky-5.webp)
 
-# Cities and the Sky 5
+# Cities & the Sky V
 
 Andria was built so artfully that its every street follows a planet’s orbit, and the buildings and the places of community life repeat the order of the constellations and the position of the most luminous stars: Antares, Alpheratz, Capricorn, the Cepheids. The city’s calendar is so regulated that jobs and offices and ceremonies are arranged in a map corresponding to the firmament on that date: and thus the days on earth and the nights in the sky reflect each other.
 

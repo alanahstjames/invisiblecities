@@ -1,7 +1,12 @@
 +++
 title = "Interlude 10"
+featuredImage = "/images/interlude-10.webp"
 weight = 40
 +++
+
+![Interlude 10](/images/interlude-10.webp)
+
+# Interlude X
 
 ‘Did you ever happen to see a city resembling this one?’ Kublai asked Marco Polo, extending his beringed hand from beneath the silken canopy of the imperial barge, to point to the bridges arching over the canals, the princely palaces whose marble doorsteps were immersed in the water, the bustle of light craft zigzagging, driven by long oars, the boats unloading baskets of vegetables at the market squares, the balconies, platforms, domes, campaniles, island gardens growing green in the lagoon’s greyness.
 

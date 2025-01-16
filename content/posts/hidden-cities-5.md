@@ -1,7 +1,12 @@
 +++
 title = "Hidden Cities 5"
+featuredImage = "/images/hidden-cities-5.webp"
 weight = 71
 +++
+
+![Hidden Cities 5](/images/hidden-cities-5.webp)
+
+# Hidden Cities V
 
 I should not tell you of Berenice, the unjust city, which crowns with triglyphs, abaci, metopes the gears of its meat-grinding machines (the men assigned to polishing, when they raise their chins over the balustrades and contemplate the atria, stairways, porticos, feel even more imprisoned and short of stature). Instead. I should tell you of the hidden Berenice, the city of the just, handling makeshift materials in the shadowy rooms behind the shops and beneath the stairs, linking a network of wires and pipes and pulleys and pistons and counterweights that infiltrates like a climbing plant among the great cogged wheels (when they jam, a subdued ticking gives warning that a new precision mechanism is governing the city). Instead of describing to you the perfumed pools of the baths where the unjust of Berenice recline and weave their intrigues with rotund eloquence and observe with a proprietary eye the rotund flesh of the bathing odalisques, I should say to you how the just, always cautious to evade the spying sycophants and the Janizaries’ mass arrests, recognize one another by their way of speaking, especially their pronunciation of commas and parentheses; from their habits which remain austere and innocent, avoiding complicated and nervous moods; from their sober but tasty cuisine, which evokes an ancient golden age: rice and celery soup, boiled beans, fried squash flowers.
 

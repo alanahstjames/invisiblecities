@@ -1,7 +1,12 @@
 +++
 title = "Interlude 2"
+featuredImage = "/images/interlude-2.webp"
 weight = 13
 +++
+
+![Interlude 2](/images/interlude-2.webp)
+
+# Interlude II
 
 ‘The other ambassadors warn me of famines, extortions, conspiracies, or else they inform me of newly discovered turquoise mines, advantageous prices in marten furs, suggestions for supplying damascened blades. And you?’ the Great Khan asked Polo, ‘you return from lands equally distant and you can tell me only the thoughts that come to a man who sits on his doorstep at evening to enjoy the cool air. What is the use, then, of all your travelling?’
 

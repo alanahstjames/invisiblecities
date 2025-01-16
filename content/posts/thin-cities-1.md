@@ -1,7 +1,12 @@
 +++
 title = "Thin Cities 1"
+featuredImage = "/images/thin-cities-1.webp"
 weight = 11
 +++
+
+![Thin Cities 1](/images/thin-cities-1.webp)
+
+# Thin Cities I
 
 Isaura, city of the thousand wells, is said to rise over a deep, subterranean lake. On all sides, wherever the inhabitants dig long vertical holes in the ground, they succeed in drawing up water, as far as the city extends, and no farther. Its green border repeats the dark outline of the buried lake; an invisible landscape conditions the visible one; everything that moves in the sunlight is driven by the lapping wave enclosed beneath the rock’s calcareous sky.
 

@@ -4,9 +4,9 @@ featuredImage = "/images/cities-and-the-dead-5.webp"
 weight = 62
 +++
 
-![Cities and the Dead 5](/images/cities-and-the-dead-5.webp)
+![Cities & the Dead 5](/images/cities-and-the-dead-5.webp)
 
-# Cities and the Dead 5
+# Cities & the Dead V
 
 Like Laudomia, every city has at its side another city whose inhabitants are called by the same name: it is the Laudomia of the dead, the cemetery. But Laudomia’s special faculty is that of being not only double, but triple; it comprehends, in short, a third Laudomia, the city of the unborn.
 

@@ -1,7 +1,12 @@
 +++
 title = "Interlude 4"
+featuredImage = "/images/interlude-4.webp"
 weight = 20
 +++
+
+![Interlude 4](/images/interlude-4.webp)
+
+# Interlude IV
 
 Kublai Khan had noticed that Marco Polo’s cities resembled one another, as if the passage from one to another involved not a journey but a change of elements. Now, from each city Marco described to him, the Great Khan’s mind set out on its own, and after dismantling the city piece by piece, he reconstructed it in other ways, substituting components, shifting them, inverting them.
 

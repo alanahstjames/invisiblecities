@@ -1,7 +1,12 @@
 +++
 title = "Interlude 3"
+featuredImage = "/images/interlude-3.webp"
 weight = 19
 +++
+
+![Interlude 3](/images/interlude-3.webp)
+
+# Interlude III
 
 … Newly arrived and quite ignorant of the languages of the Levant, Marco Polo could express himself only by drawing objects from his baggage—drums, salt fish, necklaces of wart hogs’ teeth—and pointing to them with gestures, leaps, cries of wonder or of horror, imitating the bay of the jackal, the hoot of the owl.
 

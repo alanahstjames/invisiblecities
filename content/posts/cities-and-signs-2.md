@@ -4,9 +4,9 @@ featuredImage = "/images/cities-and-signs-2.webp"
 weight = 10
 +++
 
-![Cities and Signs 2](/images/cities-and-signs-2.webp)
+![Cities & Signs 2](/images/cities-and-signs-2.webp)
 
-# Cities and Signs 2
+# Cities & Signs II
 
 Travellers return from the city of Zirma with distinct memories: a blind black man shouting in the crowd, a lunatic teetering on a skyscraper’s cornice, a girl walking with a puma on a leash. Actually many of the blind men who tap their canes on Zirma’s cobblestones are black; in every skyscraper there is someone going mad; all lunatics spend hours on cornices; there is no puma that some girl does not raise, as a whim. The city is redundant: it repeats itself so that something will stick in the mind.
 

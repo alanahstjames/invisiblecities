@@ -1,12 +1,12 @@
 +++
 title = "Cities & Names 2"
 featuredImage = "/images/cities-and-names-2.webp"
-weight = 37
+weight = 38
 +++
 
-![Cities and Names 2](/images/cities-and-names-2.webp)
+![Cities & Names 2](/images/cities-and-names-2.webp)
 
-# Cities and Names 2
+# Cities & Names II
 
 Gods of two species protect the city of Leandra. Both are too tiny to be seen and too numerous to be counted. One species stands at the doors of the houses, inside, next to the coat rack and the umbrella stand; in moves, they follow the families and install themselves in the new home at the consignment of the keys. The others stay in the kitchen, hiding by preference under pots or in the chimney flue or broom closet: they belong to the house, and when the family that has lived there goes away, they remain with the new tenants; perhaps they were already there before the house existed, among the weeds of the vacant lot, concealed in a rusty can; if the house is torn down and a huge block of fifty families is built in its place, they will be found, multiplied, in the kitchens of that many apartments. To distinguish the two species we will call the fiist one Penates and the other Lares.
 

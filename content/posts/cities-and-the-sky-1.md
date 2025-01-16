@@ -4,9 +4,9 @@ featuredImage = "/images/cities-and-the-sky-1.webp"
 weight = 45
 +++
 
-![Cities and the Sky 1](/images/cities-and-the-sky-1.webp)
+![Cities & the Sky 1](/images/cities-and-the-sky-1.webp)
 
-# Cities and the Sky 1
+# Cities & the Sky I
 
 In Eudoxia, which spreads both upwards and down, with winding alleys, steps, dead ends, hovels, a carpet is preserved in which you can observe the city’s true form. At first sight nothing seems to resemble Eudoxia less than the design of that carpet, laid out in symmetrical motives whose patterns are repeated along straight and circular lines, interwoven with brilliantly coloured spires, in a repetition that can be followed throughout the whole woof. But if you pause and examine it carefully, you become convinced that each place in the carpet corresponds to a place in the city and all the things contained in the city are included in the design, arranged according to their true relationship, which escapes your eye distracted by the bustle, the throngs, the shoving. All of Eudoxia’s confusion, the mules’ braying, the lampblack stains, the fish smell is what is evident in the incomplete perspective you grasp; but the carpet proves that there is a point from which the city shows its true proportions, the geometrical scheme implicit in its every, tiniest detail.
 

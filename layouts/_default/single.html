@@ -1,5 +1,29 @@
 {{ define "main" }}
 <div class="main">
   {{ .Content }}
+
+  <div class="post-navigation">
+    <!-- Previous Post -->
+
+
+    {{ $currentWeight := .Params.weight }}
+    {{ $prevWeight := sub $currentWeight 1}}
+    {{ $nextWeight := add $currentWeight 1}}
+    {{- range .Site.RegularPages.ByWeight -}}
+      {{- if eq .Weight $prevWeight -}}
+        <a href="{{ .Permalink }}" class="nav-link prev-post">
+          &larr; Previous: {{ .Title }}
+          <img src="{{ .Params.featuredImage }}" alt="{{ .Title }}" class="nav-image">
+        </a>
+      {{- end -}}
+      {{- if eq .Weight $nextWeight -}}
+        <a href="{{ .Permalink }}" class="nav-link next-post">
+          Next: {{ .Title }} &rarr;
+          <img src="{{ .Params.featuredImage }}" alt="{{ .Title }}" class="nav-image">
+        </a>
+      {{- end -}}
+    {{- end }}
+  </div>
 </div>
 {{ end }}
+

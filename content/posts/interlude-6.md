@@ -1,7 +1,12 @@
 +++
 title = "Interlude 6"
+featuredImage = "/images/interlude-6.webp"
 weight = 27
 +++
+
+![Interlude 6](/images/interlude-6.webp)
+
+# Interlude VI
 
 Lips clenched on the pipe’s amber stem, his beard flattened against his amethyst choker, his big toes nervously arched in his silken slippers, Kublai Khan listened to Marco Polo’s tales without raising an eyebrow. These were the evenings when a shadow of hypochondria weighed on his heart.
 

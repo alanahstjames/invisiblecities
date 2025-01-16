@@ -1,7 +1,12 @@
 +++
 title = "Continuous Cities 1"
+featuredImage = "/images/continuous-cities-1.webp"
 weight = 52
 +++
+
+![Continuous Cities 1](/images/continuous-cities-1.webp)
+
+# Continuous Cities I
 
 The city of Leonia refashions itself every day: every morning the people wake between fresh sheets, wash with just-unwrapped cakes of soap, wear brand-new clothing, take from the latest model refrigerator still unopened tins, listening to the last-minute jingles from the most up-to-date radio.
 

@@ -4,9 +4,9 @@ featuredImage = "/images/cities-and-signs-1.webp"
 weight = 7
 +++
 
-![Cities and Signs 1](/images/cities-and-signs-1.webp)
+![Cities & Signs 1](/images/cities-and-signs-1.webp)
 
-# Cities and Signs 1
+# Cities & Signs I
 
 You walk for days among trees and among stones. Rarely does the eye light on a thing, and then only when it has recognized that thing as the sign of another thing: a print in the sand indicates the tiger’s passage; a marsh announces a vein of water; the hibiscus flower, the end of winter. All the rest is silent and interchangeable; trees and stones are only what they are.
 

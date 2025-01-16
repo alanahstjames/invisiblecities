@@ -1,7 +1,12 @@
 +++
 title = "Interlude 7"
-weight = 32
+featuredImage = "/images/interlude-7.webp"
+weight = 33
 +++
+
+![Interlude 7](/images/interlude-7.webp)
+
+# Interlude VII
 
 ‘From now on, I’ll describe the cities to you,’ the Khan had said, ‘in your journeys you will see if they exist.’
 

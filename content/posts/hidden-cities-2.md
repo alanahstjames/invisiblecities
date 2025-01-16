@@ -1,7 +1,12 @@
 +++
 title = "Hidden Cities 2"
+featuredImage = "/images/hidden-cities-2.webp"
 weight = 65
 +++
+
+![Hidden Cities 2](/images/hidden-cities-2.webp)
+
+# Hidden Cities II
 
 In Raissa, life is not happy. People wring their hands as they walk in the streets, curse the crying children, lean on the railings over the river and press their fists to their temples. In the morning you wake from one bad dream and another begins. At the workbenches where, every moment, you hit your finger with a hammer or prick it with a needle, or over the columns of figures all awry in the ledgers of merchants and bankers, or at the rows of empty glasses on the zinc counters of the wineshops, the bent heads at least conceal the general grim gaze. Inside the houses it is worse, and you do not have to enter to learn this: in the summer the windows resound with quarrels and broken dishes.
 

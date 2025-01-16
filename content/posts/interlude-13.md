@@ -1,7 +1,12 @@
 +++
 title = "Interlude 13"
+featuredImage = "/images/interlude-13.webp"
 weight = 53
 +++
+
+![Interlude 13](/images/interlude-13.webp)
+
+# Interlude XIII
 
 POLO … Perhaps the terraces of this garden overlook only the lake of our mind…_
 

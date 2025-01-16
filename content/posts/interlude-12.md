@@ -1,7 +1,12 @@
 +++
 title = "Interlude 12"
+featuredImage = "/images/interlude-12.webp"
 weight = 47
 +++
+
+![Interlude 12](/images/interlude-12.webp)
+
+# Interlude XII
 
 KUBLAI I do not know when you have had time to visit all the countries you describe to me. It seems to me you have never moved from this garden._
 

@@ -1,7 +1,12 @@
 +++
 title = "Interlude 5"
+featuredImage = "/images/interlude-5.webp"
 weight = 26
 +++
+
+![Interlude 5](/images/interlude-5.webp)
+
+# Interlude V
 
 The Great Khan has dreamed of a city; he describes it to Marco Polo:
 

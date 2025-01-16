@@ -6,7 +6,7 @@ weight = 21
 
 ![Cities & Desire 5](/images/cities-and-desire-5.webp)
 
-# Cities & Desire 5
+# Cities & Desire V
 
 From there, after six days and seven nights, you arrive at Zobeide, the white city, well exposed to the moon, with streets wound about themselves as in a skein. They tell this tale of its foundation: men of various nations had an identical dream. They saw a woman running at night through an unknown city; she was seen from behind, with long hair, and she was naked. They dreamed of pursuing her. As they twisted and turned, each of them lost her. After the dream they set out in search of that city; they never found it. but they found one another; they decided to build a city like the one in the dream. In laying out the streets, each followed the course of his pursuit; at the spot where they had lost the fugitive’s trail, they arranged spaces and walls differently from the dream, so she would be unable to escape again.
 

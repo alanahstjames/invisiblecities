@@ -1,7 +1,12 @@
 +++
 title = "Interlude 8"
-weight = 33
+featuredImage = "/images/interlude-8.webp"
+weight = 34
 +++
+
+![Interlude 8](/images/interlude-8.webp)
+
+# Interlude VIII
 
 From the high balustrade of the palace the Great Khan watches his empire grow. First the line of the boundaries had expanded to embrace conquered territories, but the regiments’ advance encountered half-deserted regions, scrubby villages of huts, marshes where the rice refused to sprout, emaciated peoples, dried rivers, reeds. ‘My empire has grown too far towards the outside. It is time,’ the Khan thought, ‘for it to grow within itself,’ and he dreamed of pomegranate groves, the fruit so ripe it burst its skin, zebus browning on the spit and dripping fat, veins of metal surfacing in landslips with glistening nuggets.
 
