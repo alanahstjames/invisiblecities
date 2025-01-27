@@ -1,7 +1,7 @@
 +++
 title = "Trading Cities 5"
 featuredImage = "/images/trading-cities-5.webp"
-weight = 41
+weight = 42
 part = 6
 +++
 
