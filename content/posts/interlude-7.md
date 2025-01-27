@@ -2,6 +2,7 @@
 title = "Interlude 7"
 featuredImage = "/images/interlude-7.webp"
 weight = 33
+part = 4
 +++
 
 ![Interlude 7](/images/interlude-7.webp)

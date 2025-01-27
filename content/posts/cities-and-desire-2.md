@@ -2,6 +2,7 @@
 title = "Cities & Desire 2"
 featuredImage = "/images/cities-and-desire-2.webp"
 weight = 6
+part = 1
 +++
 
 # Cities & Desire II

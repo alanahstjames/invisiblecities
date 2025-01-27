@@ -2,6 +2,7 @@
 title = "Trading Cities 1"
 featuredImage = "/images/trading-cities-1.webp"
 weight = 18
+part = 2
 +++
 
 ![Trading Cities 1](/images/trading-cities-1.webp)

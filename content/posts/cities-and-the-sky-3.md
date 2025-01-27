@@ -1,7 +1,8 @@
 +++
 title = "Cities & the Sky 3"
 featuredImage = "/images/cities-and-the-sky-3.webp"
-weight = 57
+weight = 58
+part = 8
 +++
 
 ![Cities & the Sky 3](/images/cities-and-the-sky-3.webp)

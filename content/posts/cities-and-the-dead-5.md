@@ -1,7 +1,8 @@
 +++
 title = "Cities & the Dead 5"
 featuredImage = "/images/cities-and-the-dead-5.webp"
-weight = 62
+weight = 64
+part = 9
 +++
 
 ![Cities & the Dead 5](/images/cities-and-the-dead-5.webp)

@@ -1,7 +1,8 @@
 +++
 title = "Hidden Cities 2"
 featuredImage = "/images/hidden-cities-2.webp"
-weight = 65
+weight = 66
+part = 9
 +++
 
 ![Hidden Cities 2](/images/hidden-cities-2.webp)

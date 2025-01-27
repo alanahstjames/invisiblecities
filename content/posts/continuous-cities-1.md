@@ -1,7 +1,8 @@
 +++
 title = "Continuous Cities 1"
 featuredImage = "/images/continuous-cities-1.webp"
-weight = 52
+weight = 53
+part = 7
 +++
 
 ![Continuous Cities 1](/images/continuous-cities-1.webp)

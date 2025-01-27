@@ -2,6 +2,7 @@
 title = "Cities & Signs 5"
 featuredImage = "/images/cities-and-signs-5.webp"
 weight = 28
+part = 4
 +++
 
 ![Cities & Signs 5](/images/cities-and-signs-5.webp)

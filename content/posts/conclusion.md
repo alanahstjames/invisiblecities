@@ -1,7 +1,8 @@
 +++
 title = "Conclusion"
 featuredImage = "/images/conclusion.webp"
-weight = 72
+weight = 73
+part = 9
 +++
 
 ![Conclusion](/images/conclusion.webp)
