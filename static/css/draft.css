@@ -1,4 +1,4 @@
- /* ET Book Fonts */
+  /* ET Book Fonts */
 @font-face {
     font-family: "et-book";
     src: url("et-book/et-book-roman-line-figures/et-book-roman-line-figures.eot");
@@ -148,6 +148,7 @@ blockquote {
 .part-header-container {
     display: flex;
     align-items: center; /* Centers items vertically */
+    justify-content: center;
     gap: 10px; /* Adds space between the items */
     width: 100%
 }
@@ -171,10 +172,10 @@ blockquote {
   }
   
   .post-block {
-    flex: 1 1 calc(100% - 16px); /* 4 rectangles per row */
+    flex: 0 0 calc(32% - 16px); /* 4 rectangles per row */
     background-color: #d0eaff; /* Light blue background (fallback) */
     padding: 20px;
-    margin: 20px 10px 20px 10px;
+    margin: 5px 2px 5px 2px;
     border-radius: 8px;
     text-align: center;
     box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
@@ -218,11 +219,10 @@ blockquote {
     text-shadow: 0px 0px 10px rgba(0, 0, 0, 0.9); /* Improve readability */
 }
   
-  .post-block:hover {
-    transform: scale(1.05);
-    box-shadow: 0 6px 10px rgba(0, 0, 0, 0.15);
-  }
-  
+.post-block:hover {
+transform: scale(1.05);
+box-shadow: 0 6px 10px rgba(0, 0, 0, 0.15);
+}
 
 
 /*=-------------------=*/

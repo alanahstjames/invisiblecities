@@ -6,6 +6,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <link rel="stylesheet" href="/css/draft.css">
   </head>
+
   <body>
     <div class="sidebar">
       {{ partial "navigation.html" . }}
@@ -18,5 +19,15 @@
     
     <br>
     <br>
+
+    <script>
+      const sidebarToggle = document.getElementById('sidebarToggle');
+      const sidebar = document.getElementById('sidebarMenu');
+    
+      sidebarToggle.addEventListener('click', () => {
+        sidebar.classList.toggle('show');
+      });
+    </script>
+    
   </body>
 </html>
